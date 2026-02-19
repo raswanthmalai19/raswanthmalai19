@@ -9,7 +9,7 @@ My Absolute Favorites:
 
 | Category | Skills |
 |-----------------|---------------|
-| **AI & Machine Learning** | <img src="https://img.shields.io/badge/Artificial_Intelligence-FF6F00?style=for-the-badge&logo=ai&logoColor=white" /> <img src="https://img.shields.io/badge/Machine_Learning-3776AB?style=for-the-badge&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/Neural_Networks-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" /> <img src="https://img.shields.io/badge/Transformers-8A2BE2?style=for-the-badge&logo=huggingface&logoColor=white" /> <img src="https://img.shields.io/badge/Reinforcement_Learning-FFD700?style=for-the-badge&logo=gym&logoColor=black" /> <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" /> <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" /> <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" /> |
+| **AI & Machine Learning** | <img src="https://img.shields.io/badge/Artificial_Intelligence-FF6F00?style=for-the-badge&logo=ai&logoColor=white" /> <img src="https://img.shields.io/badge/Machine_Learning-3776AB?style=for-the-badge&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/Neural_Networks-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" /> <img src="https://img.shields.io/badge/Transformers-8A2BE2?style=for-the-badge&logo=huggingface&logoColor=white" /> <img src="https://img.shields.io/badge/Reinforcement_Learning-FFD700?style=for-the-badge&logo=gym&logoColor=black" /> <img src="https://img.shields.io/badge/LLMs-000000?style=for-the-badge&logo=openai&logoColor=white" /> <img src="https://img.shields.io/badge/Computer_Vision-00599C?style=for-the-badge&logo=opencv&logoColor=white" /> <img src="https://img.shields.io/badge/NLP-4B0082?style=for-the-badge&logo=nltk&logoColor=white" /> <img src="https://img.shields.io/badge/Deep_Learning-FF6F00?style=for-the-badge&logo=pytorch&logoColor=white" /> <img src="https://img.shields.io/badge/Generative_AI-FF69B4?style=for-the-badge&logo=generative-ai&logoColor=white" /> <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" /> <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" /> <img src="https://img.shields.io/badge/FastAI-00599C?style=for-the-badge&logo=fastai&logoColor=white" /> <img src="https://img.shields.io/badge/LangChain-121212?style=for-the-badge&logo=langchain&logoColor=white" /> <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" /> <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" /> <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" /> |
 | **Languages** | <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /> <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" /> <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" /> |
 | **Frameworks** | <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /> <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" /> <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" /> <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" /> <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" /> |
 | **Database** | <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" /> <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=black" /> <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" /> <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" /> |
@@ -40,17 +40,32 @@ My Absolute Favorites:
 
 </div>
 
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="100%" />
-
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=raswanthmalai19&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=raswanthmalai19&theme=dark&hide_border=true&background=0D1117" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=raswanthmalai19&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raswanthmalai19&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="150" />
 </div>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raswanthmalai19&layout=compact&theme=dark&hide_border=true&bg_color=0D1117" alt="Top Languages" />
-</div>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=raswanthmalai19&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=raswanthmalai19&theme=tokyonight&no-bg=true&no-frame=true&column=7" alt="github profile trophy" /></a>
+</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=raswanthmalai19&color=blue&style=flat-square&label=PROFILE+VIEWS" alt="Visitor Counter" />
 </p>
+
+<p align="center">
+  <i>"I'm not the GOAT yet, but the algorithm is starting to recognize the pattern."</i>
+</p>
+
+<div align="center">
+  <h3>🎮 Wanna play a quick game?</h3>
+  <a href="https://github.com/raswanthmalai19/raswanthmalai19">
+    <img src="https://raw.githubusercontent.com/Ashutosh049/Ashutosh049/master/assets/pacman.gif" width="600" />
+  </a>
+</div>
+
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="100%" />
