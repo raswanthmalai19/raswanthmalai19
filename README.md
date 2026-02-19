@@ -1,4 +1,25 @@
-`````` \\\\\\\\\\\\\\\\\\\\\\\\\\\\ \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\ \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\ -----------,-| |C> // )\\\\\\\\\\\\\\\\| ,','| / || ,'/////| ---------,',' | (, || ///// || | \\\\\\\\ ||||//''''| || | ||||||| \\_| || |\\_\\_\\_\\_\\_\\_ ``````\\\\\\_\\_\\_\\_/ \\\\ || | ,| \\_/\\_\\_\\_\\_\\_/ \\\\ || ,' ,' | / | " Every great project starts with a single line of code " ||,' ,' | | \\\\ | "Eat. Sleep. Code. Repeat" \\_\\_\\_\\_\\_\\_\\_\\_\\_|/ ,' | / | | \\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_,' ,',\\_\\_\\_\\_\\_| | | | | ,',' | | | | | ,',' \\_\\_\\_\\_|\\_\\_\\_\\_\\_/ / | | ,',' \\_\\_/ | / | \\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_|',' ///\\_/-------------/ | |===========' ``````
+``````
+                             \\\\\\\
+                            \\\\\\\\\\\\
+                          \\\\\\\\\\\\\\\
+  -----------,-|           |C>   // )\\\\|
+           ,','|          /    || ,'/////|
+---------,','  |         (,    ||   /////
+         ||    |          \\  ||||//''''|
+         ||    |           |||||||     _|
+         ||    |______      `````\____/ \                 
+         ||    |     ,|         _/_____/ \
+         ||  ,'    ,' |        /          |              " Every great project starts with a single line of code "
+         ||,'    ,'   |       |         \  |                            "Eat. Sleep. Code. Repeat"
+_________|/    ,'     |      /           | |
+_____________,'      ,',_____|      |    | |
+             |     ,','      |      |    | |
+             |   ,','    ____|_____/    /  |
+             | ,','  __/ |             /   |
+_____________|','   ///_/-------------/   |
+              |==========='
+``````
+
 
 My Absolute Favorites:
 * 💻   I love exploring new technologies and building cool stuff.
@@ -40,25 +61,10 @@ My Absolute Favorites:
 
 </div>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=raswanthmalai19&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raswanthmalai19&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="150" />
-</div>
+
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=raswanthmalai19&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=raswanthmalai19&theme=tokyonight&no-bg=true&no-frame=true&column=7" alt="github profile trophy" /></a>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=raswanthmalai19&color=blue&style=flat-square&label=PROFILE+VIEWS" alt="Visitor Counter" />
-</p>
-
-<p align="center">
-  <i>"I'm not the GOAT yet, but the algorithm is starting to recognize the pattern."</i>
+  <i>"not peak yet. just loading. still compiling… errors expected."</i>
 </p>
 
 <div align="center">
