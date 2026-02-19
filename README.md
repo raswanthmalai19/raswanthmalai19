@@ -58,11 +58,11 @@ My Absolute Favorites:
 
 </div>
 
-
-
+#
+<div>
 <p align="center">
-  <i>"not peak yet. just loading. still compiling… evolving as expected. "</i>
+  <i>"Still Compiling… Evolving as Expected."</i>
 </p>
-
+</div>
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="100%" />
