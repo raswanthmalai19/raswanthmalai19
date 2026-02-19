@@ -43,9 +43,6 @@ My Absolute Favorites:
 
 <div align="center">
 
-<a href="" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" style="margin: 5px; animation: pulse 2s infinite ease-in-out;" />
-</a>
 <a href="https://x.com/RASWANTH_MALAI" target="_blank">
   <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" style="margin: 5px; animation: bounce 2s infinite ease-in-out;" />
 </a>
@@ -64,14 +61,8 @@ My Absolute Favorites:
 
 
 <p align="center">
-  <i>"not peak yet. just loading. still compiling… errors expected."</i>
+  <i>"not peak yet. just loading. still compiling… evolving as expected. "</i>
 </p>
 
-<div align="center">
-  <h3>🎮 Wanna play a quick game?</h3>
-  <a href="https://github.com/raswanthmalai19/raswanthmalai19">
-    <img src="https://raw.githubusercontent.com/Ashutosh049/Ashutosh049/master/assets/pacman.gif" width="600" />
-  </a>
-</div>
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="100%" />
