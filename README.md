@@ -41,3 +41,16 @@ My Absolute Favorites:
 </div>
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="100%" />
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=raswanthmalai19&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=raswanthmalai19&theme=dark&hide_border=true&background=0D1117" alt="GitHub Streak" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raswanthmalai19&layout=compact&theme=dark&hide_border=true&bg_color=0D1117" alt="Top Languages" />
+</div>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=raswanthmalai19&color=blue&style=flat-square&label=PROFILE+VIEWS" alt="Visitor Counter" />
+</p>
