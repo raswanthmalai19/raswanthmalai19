@@ -1,6 +1,6 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/header-dark.svg">
-  <img alt="Raswanthkrishna M — AI/ML engineer working on efficient LLM inference, quantitative ML and auditable AI systems" src="assets/header-light.svg" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="header-dark.svg">
+  <img alt="Raswanthkrishna M — AI/ML engineer working on efficient LLM inference, quantitative ML and auditable AI systems" src="header-light.svg" width="100%">
 </picture>
 
 
