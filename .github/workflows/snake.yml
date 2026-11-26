@@ -1,4 +1,4 @@
-name: Generate Snake Animation
+name: Generate contribution snake
 
 on:
   schedule:
@@ -11,12 +11,16 @@ on:
 permissions:
   contents: write
 
+concurrency:
+  group: snake
+  cancel-in-progress: true
+
 jobs:
   generate:
     runs-on: ubuntu-latest
     timeout-minutes: 10
     steps:
-      - name: Generate snake.svg
+      - name: Generate light and dark SVGs
         uses: Platane/snk/svg-only@v3
         with:
           github_user_name: ${{ github.repository_owner }}
@@ -24,8 +28,8 @@ jobs:
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
-      - name: Push snake.svg to output branch
-        uses: crazy-max/ghaction-github-pages@v3
+      - name: Publish to the output branch
+        uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output
           build_dir: dist
