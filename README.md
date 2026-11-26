@@ -1,3 +1,11 @@
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/header-dark.svg">
+  <img alt="Raswanthkrishna M — AI/ML engineer working on efficient LLM inference, quantitative ML and auditable AI systems" src="assets/header-light.svg" width="100%">
+</picture>
+
+
+
+
 ``````
                              \\\\\\\
                             \\\\\\\\\\\\
@@ -39,7 +47,11 @@ My Absolute Favorites:
 | **Design Tools** | <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" /> <img src="https://img.shields.io/badge/Adobe_XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6" /> <img src="https://img.shields.io/badge/Adobe_Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white" /> <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" /> <img src="https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white" /> |
 | **Learning** | <img src="https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=Coursera&logoColor=white" /> <img src="https://img.shields.io/badge/freecodecamp-27273D?style=for-the-badge&logo=freecodecamp&logoColor=white" /> <img src="https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white" /> <img src="https://img.shields.io/badge/Udacity-02B3E4?style=for-the-badge&logo=udacity&logoColor=white" /> |
 
-![Snake animation Contribution Graph](https://raw.githubusercontent.com/raswanthmalai19/raswanthmalai19/output/github-contribution-grid-snake-dark.svg)
+## Activity
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/raswanthmalai19/raswanthmalai19/output/github-contribution-grid-snake-dark.svg">
+  <img alt="Contribution graph animated as a snake" src="https://raw.githubusercontent.com/raswanthmalai19/raswanthmalai19/output/github-contribution-grid-snake.svg" width="100%">
+</picture>
 
 <div align="center">
 
